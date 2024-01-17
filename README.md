@@ -5,15 +5,15 @@ Welcome to our Hotel &amp; PG Booking Platform!  This GitHub repository houses t
 
 ## Frontend:
 
-• React (JavaScript library for building user interfaces)
-• Tailwind CSS (CSS framework for styling)
-• Stripe (for online payments)
+- React (JavaScript library for building user interfaces)
+- Tailwind CSS (CSS framework for styling)
+- Stripe (for online payments)
 
 ## Backend:
 
-• Node.js (JavaScript runtime for server-side development)
-• Express.js (Web application framework for Node.js)
-• MongoDB (NoSQL database for storing data)
+- Node.js (JavaScript runtime for server-side development)
+- Express.js (Web application framework for Node.js)
+- MongoDB (NoSQL database for storing data)
 
 ## Testing:
 
