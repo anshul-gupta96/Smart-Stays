@@ -7,7 +7,7 @@ Welcome to our Hotel &amp; PG Booking Platform!  This GitHub repository houses t
 
 - React (JavaScript library for building user interfaces)
 - Tailwind CSS (CSS framework for styling)
-- Stripe (for online payments)
+- Stripe (for online payments)ff
 
 ## Backend:
 
